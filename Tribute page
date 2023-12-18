@@ -1,0 +1,60 @@
+<body>
+  <div class="col-xs-4">
+    <h1 class="text-align color-text">Dr. Lise Meitner</h1>
+    <h2 class="text-align color-text">A physicist who never lost her humanity</h2>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <hr>
+    </div>
+  </div>
+  <h3 class="#936B9D-text text-align">BIOGRAPHY</h3>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div align="center">
+          <img class="img-responsive" src="https://4.bp.blogspot.com/-4Bo9NXed3mE/Vu1g8n3w8bI/AAAAAAAACI0/RBc9G8varWI6rotiVI_lRuNuRehvJhA3g/s400/LM-KWI-Bahr-1914.bmp">
+          <div class="text-center">
+            <h4>Lise Meitner with <a href="https://en.wikipedia.org/wiki/Eva_von_Bahr_(physicist)#frb-inline" target="_blank">Eva von Bahr</a>, 1914</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="text-left">
+      <ul>
+        <ol><em><strong>1878:</strong></em> Lise Meitner was born on November 7, in Vienna, Austria.</ol>
+         <ol><em><strong>1901:</strong></em> She entered the University of Vienna studying physics under <button class="btn btn-primary btn-info"><a href="https://www.famousscientists.org/ludwig-boltzmann/" target="-_blank">Ludwig Boltzmann.</a></button></ol>
+        <ol><em><strong>1906:</strong></em> She obtained her doctorate degree.</ol>
+        <ol><em><strong>1907:</strong></em> Meitner went to Berlin to study with <button class="btn btn-primary btn-info"><a href="https://www.britannica.com/biography/Max-Planck" target="-_blank">Max Planck</a></button> and joined Otto Hahn in research on radioactivity.</ol>
+        <ol><em><strong>1922:</strong></em> Meitner discovered the radiationless transition known as the <button class="btn btn-primary btn-info"><a href="https://www.revolvy.com/topic/Auger%20effect&item_type=topic" target="-_blank">Auger effect</a></button>, nevertheless she did not receive the credit.</ol>
+        <ol>During three decades of association, <strong>Lise Meitner</strong> and <strong>Otto Hahn</strong> were among the first to isolate the <button class="btn btn-primary btn-info"><a href="https://www.britannica.com/science/protactinium#ref52495" target="-_blank">isotope protactinium-231.</a></button></ol>
+        <ol><em><strong>1930:</strong></em> Along with <button class="btn btn-primary btn-info"><a href="https://www.chemheritage.org/historical-profile/otto-hahn-lise-meitner-and-fritz-strassmann" target="-_blank">Strassmann</a></button>investigated the products of neutron bombardment of uranium.</ol>
+        <ol><em><strong>1938:</strong></em> After Austria was annexed by Germany, Meitner was forced to leave and flee from Nazy Germany to Sweden, and continues with the research on <button class="btn btn-primary btn-info"><a href="https://en.wikipedia.org/wiki/Uranium" target="-_blank">uranium.</a></button></ol>
+        <ol><em><strong>Meitner continued her work at Manne Siegbahn's institute in Stockholm, with very little support.</strong></em></ol>
+        <ol>She received a letter from Otto Hahn recounting a strange bursting he described as occurring to uranium, forming barium. Meitner and her nephew Frisch, discussing the puzzling bursting process.Then they realized: if <button class="btn btn-primary btn-info"><a href="http://cdn2.collective-evolution.com/assets/uploads/2013/08/EINSTEIN.jpg" target="-_blank">E=mc2 </a></button>, that mass could not be lost, but the nucleus would be split in two. Simultaneously an enormous amount of energy is released or absorbed, which allows matter to enter a plasma state. (The discovery of nuclear fission has opened a new era, that can provide power for society’s benefit with implications in many areas.) The evidence for <button class="btn btn-primary btn-info"><a href="https://www.britannica.com/science/nuclear-fission" target="-_blank">nuclear fission</a></button> were done at laboratory of Otto Hahn in Berlin.</ol>
+        <ol><em><strong>1939:</strong></em> Meitner published the physical explanation for the observations and, with her nephew, physicist <button class="btn btn-primary btn-info"><a href="https://www.britannica.com/biography/Otto-Robert-Frisch" target="-_blank">Otto Frisch</a></button>, named the process nuclear fission.</ol>
+        <ol><em><strong>1944:</strong></em> Hahn was awarded the Nobel Prize for Chemistry for his research into fission, but Meitner was ignored.</ol>
+        <ol><em><strong>1945:</strong></em> She was recognized in America for her accomplishments, <button class="btn btn-primary btn-info"><a href="https://jwa.org/encyclopedia/article/meitner-lise" target="-_blank">but...</a></button></ol>
+        <ol><em><strong>1947:</strong></em> She declained the invitation of Otto Hahn and Strassmann to re-join them at the rebuilt Institute for Chemistry in Mainz, West Germany.</ol>
+        <ol><em><strong>1960:</strong></em> Meitner retired to Cambridge, England.</ol>
+        <ol><em><strong>1966:</strong></em> Hahn, Meitner, and Strassman were awarded the <button class="btn btn-primary btn-info"><a href="http://www.mpic.de/uploads/pics/smh4b_01.jpg" target="-_blank">Enrico Fermi Award</a></button>.</ol>
+        <ol><em><strong>Died on October 27, 1968.</strong></em></ol>
+        <ol>Her nephew Frisch composed the inscription on her headstone. It reads:<em><strong> Lise Meitner: a physicist who never lost her humanity.</strong></em></ol>
+        <ol><em><strong>1992:</strong></em> The element 109, the heaviest known element in the universe, was named  <button class="btn btn-primary btn-info"><a href="https://ztfnews.files.wordpress.com/2013/11/quik.jpg" target="-_blank">Meitnerium (Mt)</a></button> in her honor.</ol>
+      </ul>
+    </div>
+    
+    <div class="row">
+      <div class="col-xs-6">
+        <div align="right">
+          <h5>For more information click <a href="https://www.famousscientists.org/lise-meitner/" target="_blank">Here</a></h5>
+        </div>
+      </div>
+    </div>
+    <footer class="text-center">
+      <p>Written and coded by Cecilia Covarrubias</p>
+    </body>
+  
+              
+  
+    

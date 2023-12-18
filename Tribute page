@@ -1,3 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tribute Page</title>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body{
+  margin-top: 30px;
+
+}
+
+h1{
+  text-align: center;
+  color: #CB5151;
+}
+
+h2{
+  text-align: center;
+  color: #CB5151;
+}
+
+h3{
+  color: #936B9D;
+  text-align: center;
+
+}
+
+h4{
+  text-align: center;
+  
+}
+
+h5{
+
+  background-color: #936B9D;
+  
+}
+
+strong{
+  color: #936B9D;
+  
+}
+
+p{
+  text-align: center;
+}
+</style>
+</head>
+
 <body>
   <div class="col-xs-4">
     <h1 class="text-align color-text">Dr. Lise Meitner</h1>
@@ -54,7 +106,7 @@
     <footer class="text-center">
       <p>Written and coded by Cecilia Covarrubias</p>
     </body>
-  
+  </html>
               
   
     
